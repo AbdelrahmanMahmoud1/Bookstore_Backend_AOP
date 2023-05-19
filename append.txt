@@ -1,0 +1,1 @@
+POST /saveBook Payload book: Book{id=0, bookName='test', stockNumber=123, price=12.0}, POST /create Payload customerId: 12, bookId: [9, 10], quantity: 12, 
